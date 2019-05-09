@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- sw411dp -->
+    <dimen name="txt_textsize_xsmall_s">10sp</dimen>
+    <dimen name="txt_textsize_xsmall_m">11sp</dimen>
+    <dimen name="txt_textsize_xsmall_l">12sp</dimen>
+    <dimen name="txt_textsize_small_s">13sp</dimen>
+    <dimen name="txt_textsize_small_m">14sp</dimen>
+    <dimen name="txt_textsize_small_l">15sp</dimen>
+    <dimen name="txt_textsize_medium_s">16sp</dimen>
+    <dimen name="txt_textsize_medium_m">17sp</dimen>
+    <dimen name="txt_textsize_medium_l">18sp</dimen>
+    <dimen name="txt_textsize_large_s">19sp</dimen>
+    <dimen name="txt_textsize_large_m">20sp</dimen>
+    <dimen name="txt_textsize_large_l">21sp</dimen>
+    <dimen name="txt_textsize_xlarge_s">22sp</dimen>
+    <dimen name="txt_textsize_xlarge_m">23sp</dimen>
+    <dimen name="txt_textsize_xlarge_l">24sp</dimen>
+
+</resources>

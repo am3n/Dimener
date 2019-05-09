@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- sw360dp-xhdpi -->
+    <dimen name="txt_textsize_xsmall_s">9sp</dimen>
+    <dimen name="txt_textsize_xsmall_m">10sp</dimen>
+    <dimen name="txt_textsize_xsmall_l">11sp</dimen>
+    <dimen name="txt_textsize_small_s">12sp</dimen>
+    <dimen name="txt_textsize_small_m">13sp</dimen>
+    <dimen name="txt_textsize_small_l">14sp</dimen>
+    <dimen name="txt_textsize_medium_s">15sp</dimen>
+    <dimen name="txt_textsize_medium_m">16sp</dimen>
+    <dimen name="txt_textsize_medium_l">17sp</dimen>
+    <dimen name="txt_textsize_large_s">18sp</dimen>
+    <dimen name="txt_textsize_large_m">19sp</dimen>
+    <dimen name="txt_textsize_large_l">20sp</dimen>
+    <dimen name="txt_textsize_xlarge_s">21sp</dimen>
+    <dimen name="txt_textsize_xlarge_m">22sp</dimen>
+    <dimen name="txt_textsize_xlarge_l">23sp</dimen>
+
+</resources>
